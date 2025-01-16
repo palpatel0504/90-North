@@ -43,7 +43,7 @@ Run migrations: python manage.py migrate
 
 Start the server: python manage.py runserver
 
-Open http://127.0.0.1:8000/ in a browser.
+Open the mentioned link in a browser.
 
 AWS Lambda Functions
 
